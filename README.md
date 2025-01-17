@@ -1,20 +1,16 @@
 # Hi, I'm Amitesh Joseph! 👋
 
-I am a Devops Engineer with 6 years of experience specializing in cloud infrastructure, CI/CD and automation.
+I am a Devops Engineer with 7 years of experience specializing in cloud infrastructure, CI/CD and automation.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working in Adcuratio Media Pvt. Ltd as Devops Engineer.
-
-## My Articles
--
+- 🔭 I'm currently working in Adcuratio Media Pvt. Ltd as Module Lead II in Devops Engineering.
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,dynamodb,fastapi,git,github,githubactions,grafana,jenkins,kafka,kubernetes,linux,mongodb,postgres,mysql,nginx,powershell,py,prometheus)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-
+## 🌱 Certificates
 -
 
  ## 🏆 Achievements
