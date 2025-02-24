@@ -10,9 +10,6 @@ I am a Devops Engineer with 7 years of experience specializing in cloud infrastr
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,dynamodb,fastapi,git,github,githubactions,grafana,jenkins,kafka,kubernetes,linux,mongodb,postgres,mysql,nginx,powershell,py,prometheus)](https://skillicons.dev)
 
- ## 🏆 Achievements
-
-- 
 
 
 ## 🌱 Certificates
