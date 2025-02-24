@@ -1,6 +1,6 @@
 # Hi, I'm Amitesh Joseph! 👋
 
-I am a Devops Engineer with 7 years of experience specializing in cloud infrastructure, CI/CD and automation.
+I am a Senior Devops and DevSecOps Engineer with 7 years of experience specializing in cloud infrastructure, CI/CD and automation.
 
 ## 🚀 About Me
 
@@ -21,6 +21,7 @@ I am a Devops Engineer with 7 years of experience specializing in cloud infrastr
 ## 📬 Get in Touch
 
 - Connect with me on [Topmate](https://topmate.io/amitesh_joseph/)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/amitesh-joseph-598b6b341/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
