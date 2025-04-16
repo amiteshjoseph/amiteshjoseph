@@ -1,6 +1,6 @@
 # Hi, I'm Amitesh Joseph! 👋
 
-I am a Senior Devops and DevSecOps Engineer with 7 years of experience specializing in cloud infrastructure, CI/CD and automation.
+I have a total of 7 years of experience in IT where I am currently working as a Senior Devops Engineer with 4 years of experience specializing in cloud infrastructure, CI/CD and automation.
 
 ## 🚀 About Me
 
