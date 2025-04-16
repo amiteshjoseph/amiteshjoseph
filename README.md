@@ -4,7 +4,7 @@ I have a total of 7 years of experience in IT where I am currently working as a 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working in Adcuratio Media Pvt. Ltd as Module Lead II in Devops Engineering.
+- 🔭 I'm currently working in Adcuratio Media Pvt. Ltd as Module Lead 2 in Devops Engineering.
 
 
 ## Tech Stack
