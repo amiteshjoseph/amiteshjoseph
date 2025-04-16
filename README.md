@@ -20,7 +20,6 @@ I have a total of 7 years of experience in IT where I am currently working as a 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Topmate](https://topmate.io/amitesh_joseph/)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/amitesh-joseph-598b6b341/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
