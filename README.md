@@ -12,7 +12,7 @@ I have a total of 7 years of experience in IT where I am currently working as a 
 
 
 
-## 🌱 Certificates
+## 🌱 Projects
 -
 
 
